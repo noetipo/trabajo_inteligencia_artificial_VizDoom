@@ -1,9 +1,12 @@
-# CS362 - Robótica 2020-02 (CCOMP10-1) - Laboratorio RL-03 - Implemetación y pruebas de VizDoom
+
 
 ## Integrantes
 
-- Rafael Isaac Cano Guitton
-- Jhorel Kevin Revilla Calderón
+- NOE WILBER TIPO MAMANI
+- NIEVES FLORES PELOTIER
+- QUEDYN CANAHUA APAZA
+
+
 
 ## Repositorio
 
