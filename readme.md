@@ -1,16 +1,8 @@
-
-
 ## Integrantes
 
 - NOE WILBER TIPO MAMANI
 - NIEVES FLORES PELOTIER
 - QUEDYN CANAHUA APAZA
-
-
-
-## Repositorio
-
-- <https://github.com/rafaelcanoguitton/VizDoom-Project>
 
 ## Experimento Básico Cacodemon
 
